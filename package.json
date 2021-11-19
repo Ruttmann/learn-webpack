@@ -1,0 +1,11 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "Code along repo for learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marlon Ruttmann",
+  "license": "ISC"
+}
