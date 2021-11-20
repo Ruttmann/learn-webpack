@@ -1,4 +1,4 @@
-class ComponentService {
+export class ComponentService {
   constructor() {
     this.numberOneInput = document.querySelector("#numberOne");
     this.numberTwoInput = document.querySelector("#numberTwo");
