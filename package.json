@@ -1,11 +1,16 @@
 {
   "name": "learn-webpack",
   "version": "1.0.0",
+  "private": "true",
   "description": "Code along repo for learning webpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack"
   },
   "author": "Marlon Ruttmann",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
 }
