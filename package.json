@@ -5,7 +5,7 @@
   "description": "Code along repo for learning webpack",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "author": "Marlon Ruttmann",
   "license": "ISC",
